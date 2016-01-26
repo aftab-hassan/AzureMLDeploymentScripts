@@ -1,0 +1,8 @@
+This is the script to generate the cost model.
+Although, the model that is currently deployed on Azure ML (as of Jan 26, 2016) is one that Stacey had created and passed on to me as a .RDS file.
+
+If you want to go ahead, and create a cost model though, generetCostModel.R is what you would want to use.
+
+If you want to use the one that is currently deployed (the one made by Stacey)
+ 1.model : cubist_cost_model.RDS
+ 2.getCostPredictions.R : will query the mode and give cost predictions for some 5 test patients (just for check)

@@ -1,0 +1,4 @@
+The script in this folder generates models for 
+Readmission - 30 day, 60 day, 90 day
+LOS         - 2 day, 4 day, 6 day
+Mortality   - 3 month, 6 month ,9 month,12 month
